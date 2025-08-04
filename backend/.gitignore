@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Django
+*.sqlite3
+db.sqlite3
+*.pot
+*.pyc
+local_settings.py
+media
+staticfiles
+
+# Virtual environment
+myvir/
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyCharm
+.idea/
+
+# Environments / Secrets
+.env
+*.env
+
+# MySQL-related (just in case)
+*.sql
+*.bak
+*.dump
+*.mysql
+
+# Migrations
+**/migrations/

@@ -1,0 +1,10 @@
+schemaVersion: 1.2
+endpoints:
+  - name: django-backend
+    displayName: Django REST Endpoint
+    service:
+      basePath: /
+      port: 8000
+    type: REST
+    networkVisibilities:
+      - Public

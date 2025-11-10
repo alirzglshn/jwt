@@ -81,7 +81,7 @@ Built using **React + Vite**, the frontend consumes Django’s REST API, handles
 
 ## 🛠️ Setup Instructions
 
-Here’s a copy-paste setup you can run in your terminal 👇
+
 
 ```bash
 # 1️⃣ Clone the repository

@@ -119,7 +119,6 @@ npm run dev
 # 👉 http://localhost:5173/
 
 
-
 ## 🔐 Core Features
 
 - 🔑 **JWT Authentication** (Access + Refresh tokens)
@@ -148,35 +147,7 @@ npm run dev
 ## 👨‍💻 Author
 
 **Alireza Golshan**  
-💼 Computer Science Student | Django & React## 🔐 Core Features
-
-- 🔑 **JWT Authentication** (Access + Refresh tokens)
-- 🧍‍♂️ **User registration & login**
-- 🗒️ **Create, view, and delete notes**
-- 🔄 **Token refresh endpoint**
-- 🧱 **Permission-based API protection**
-- 🌍 **Full React integration via CORS**
-- 💬 **Clean, modular Django REST setup**
-
----
-
-## 🧩 API Endpoints (for reference)
-
-| Method | Endpoint | Description |
-|:-------|:----------|:-------------|
-| **POST** | `/core/user/register/` | Register new user |
-| **POST** | `/api-token/` | Get JWT token pair |
-| **POST** | `/api/token/refresh/` | Refresh JWT tokens |
-| **GET** | `/core/notes/` | List user notes |
-| **POST** | `/core/notes/` | Create a note |
-| **DELETE** | `/core/notes/delete/<id>/` | Delete a note |
-
----
-
-## 👨‍💻 Author
-
-**Alireza Golshan**  
-💼 Computer Science Student | Django Developer  
+💼 Computer Science Student | Django & React Developer  
 🐍 Passionate about Backend Logic & API Security  
 🔗 [GitHub](https://github.com/alirzglshn) • [LinkedIn](https://www.linkedin.com/in/alirzglshn/)
 
@@ -188,15 +159,6 @@ npm run dev
 - 🌓 Add dark mode to frontend  
 - 🐳 Deploy with Docker (fullstack setup)  
 - ♻️ Integrate refresh tokens seamlessly with React interceptors  
- Developer  
-🐍 Passionate about Backend Logic & API Security  
-🔗 [GitHub](https://github.com/alirzglshn) • [LinkedIn](https://www.linkedin.com/in/alirzglshn/)
-
----
-
-## 🧭 Future Improvements
-
-- 🔐 Implement password reset & profile management  
-- 🌓 Add dark mode to frontend  
+  
 - 🐳 Deploy with Docker (fullstack setup)  
 - ♻️ Integrate refresh tokens seamlessly with React interceptors  
